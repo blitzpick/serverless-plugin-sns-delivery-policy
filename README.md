@@ -32,7 +32,7 @@ Just add a "deliveryPolicy" block to your SNS event:
 ],
 ```
 
-For a little (fairly barren) documentation of the deliveryPolicy structure, see [http://docs.aws.amazon.com/sns/latest/dg/json-formats.html]
+For a little (fairly barren) documentation of the deliveryPolicy structure, see http://docs.aws.amazon.com/sns/latest/dg/json-formats.html
 
 ### Setup
 
