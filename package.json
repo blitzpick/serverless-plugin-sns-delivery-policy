@@ -1,5 +1,5 @@
 {
-  "name": "serverless-plugin=sns-delivery-policy",
+  "name": "serverless-plugin-sns-delivery-policy",
   "version": "0.0.1",
   "engines": {
     "node": ">=4.0"
